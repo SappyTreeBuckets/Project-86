@@ -1,0 +1,21 @@
+.body_background 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-width: 10px;
+   background-color: white;
+   border-style: ridge;
+   border-color: darkorchid;
+}
+
+#wishes{
+    text-align: center;
+    text-anchor:#04000a;
+    font-size: 20px;
+    font-weight: bold;
+
+}
